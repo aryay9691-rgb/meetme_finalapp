@@ -1,0 +1,5 @@
+# Exclude only large binary files that exceed GitHub's 100MB limit
+# (Generated native libs from Flutter build — not source code)
+build/app/intermediates/merged_native_libs/
+build/app/intermediates/stripped_native_libs/
+**/*.so

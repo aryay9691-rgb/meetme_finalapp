@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1015374601940</string>
+    <string name="google_api_key" translatable="false">AIzaSyAbhW-G-pZCRJ3UcFIoBomVxNjguIyPmfk</string>
+    <string name="google_app_id" translatable="false">1:1015374601940:android:7da31c8912457ed5552541</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAbhW-G-pZCRJ3UcFIoBomVxNjguIyPmfk</string>
+    <string name="google_storage_bucket" translatable="false">friend-finder-hackathon-e9f5f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">friend-finder-hackathon-e9f5f</string>
+</resources>

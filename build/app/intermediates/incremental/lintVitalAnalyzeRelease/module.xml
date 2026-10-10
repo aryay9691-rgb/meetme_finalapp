@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.7.3"
+    buildFolder="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/app"
+    bootClassPath="/opt/homebrew/share/android-commandlinetools/platforms/android-36/android.jar:/opt/homebrew/share/android-commandlinetools/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-36">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

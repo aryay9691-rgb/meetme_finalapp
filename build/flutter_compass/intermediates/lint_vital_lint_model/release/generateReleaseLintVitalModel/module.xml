@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/aryayadav/.pub-cache/hosted/pub.dev/flutter_compass-0.8.1/android"
+    name=":flutter_compass"
+    type="LIBRARY"
+    maven="com.hemanthraj.fluttercompass:flutter_compass:1.0-SNAPSHOT"
+    agpVersion="8.7.3"
+    buildFolder="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/flutter_compass"
+    bootClassPath="/opt/homebrew/share/android-commandlinetools/platforms/android-34/android.jar:/opt/homebrew/share/android-commandlinetools/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

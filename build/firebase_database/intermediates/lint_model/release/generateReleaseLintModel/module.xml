@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/aryayadav/.pub-cache/hosted/pub.dev/firebase_database-10.5.7/android"
+    name=":firebase_database"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.database:firebase_database:1.0-SNAPSHOT"
+    agpVersion="8.7.3"
+    buildFolder="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database"
+    bootClassPath="/opt/homebrew/share/android-commandlinetools/platforms/android-34/android.jar:/opt/homebrew/share/android-commandlinetools/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

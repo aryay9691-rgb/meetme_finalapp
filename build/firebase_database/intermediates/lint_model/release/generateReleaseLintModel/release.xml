@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="io.flutter.plugins.firebase.database"
+    minSdkVersion="19"
+    targetSdkVersion="19"
+    mergedManifest="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/intermediates/default_proguard_files/global/proguard-android.txt-8.7.3"
+    partialResultsDir="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/tmp/kotlin-classes/release:/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.firebase.database"
+      generatedSourceFolders="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/generated/ap_generated_sources/release/out:/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/generated/source/buildConfig/release"
+      generatedResourceFolders="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/firebase_database/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/aryayadav/.gradle/caches/8.14/transforms/026b5928dad2225a490f9e3a38e89157/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.hemanthraj.fluttercompass.flutter_compass-release-26:/drawable-v21/notification_action_background.xml",
+        "source": "com.hemanthraj.fluttercompass.flutter_compass-core-1.13.1-11:/drawable-v21/notification_action_background.xml"
+    }
+]

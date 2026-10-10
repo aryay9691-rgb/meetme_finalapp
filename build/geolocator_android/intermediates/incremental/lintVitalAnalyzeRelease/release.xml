@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.baseflow.geolocator"
+    minSdkVersion="24"
+    targetSdkVersion="24"
+    mergedManifest="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/intermediates/default_proguard_files/global/proguard-android.txt-8.7.3"
+    partialResultsDir="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    desugaredMethodsFiles="/Users/aryayadav/.gradle/caches/8.14/transforms/f1b8d695ba9c1d54e41e2f6cba483c67/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/tmp/kotlin-classes/release:/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.baseflow.geolocator"
+      generatedSourceFolders="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/aryayadav/kccapp/MEET-ME-IIITM-GWALIOR/build/geolocator_android/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/aryayadav/.gradle/caches/8.14/transforms/f1b8d695ba9c1d54e41e2f6cba483c67/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>
